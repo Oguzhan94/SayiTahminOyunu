@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SayiTahmini</string>
+    <string name="game_name">Sayı Tahmini Oyunu</string>
+    <string name="play_button">Oyna</string>
+    <string name="game_life_counter">Kalan hakkınız: </string>
+    <string name="guest_input">Tahmini giriniz</string>
+    <string name="submit_result">Onayla</string>
+    <string name="reduce_estimate">Tahminizi Azaltın</string>
+    <string name="raise_the_estimate">Tahminizi Arttırın</string>
+    <string name="win">Kazandınız</string>
+    <string name="lose">Kaybettiniz</string>
+    <string name="try_again">Tekrar Oyna</string>
+
+
+</resources>
